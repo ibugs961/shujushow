@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="statistic-web:war">
+    <output-path>$PROJECT_DIR$/statistic-web/target</output-path>
+    <root id="archive" name="statistic.war">
+      <element id="artifact" artifact-name="statistic-web:war exploded" />
+    </root>
+  </artifact>
+</component>

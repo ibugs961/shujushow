@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shujushow.iml" filepath="$PROJECT_DIR$/shujushow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statistic-web/statistic-web.iml" filepath="$PROJECT_DIR$/statistic-web/statistic-web.iml" />
+    </modules>
+  </component>
+</project>
