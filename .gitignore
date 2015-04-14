@@ -1,6 +1,7 @@
 ~*.*
 .idea/
 target/
+static-web/target/
 ~/
 *.iml
 *.bak
